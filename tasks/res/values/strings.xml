@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phone Dialer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="backspace">Backspace</string>
+    <string name="unu">1</string>
+    <string name="doi">2</string>
+    <string name="trei">3</string>
+    <string name="patru">4</string>
+    <string name="cinci">5</string>
+    <string name="sase">6</string>
+    <string name="sapte">7</string>
+    <string name="opt">8</string>
+    <string name="noua">9</string>
+    <string name="stea">*</string>
+    <string name="zero">0</string>
+    <string name="diez">#</string>
+    <string name="call">Call</string>
+    <string name="hangup">Hangup</string>
+    
+
+</resources>
